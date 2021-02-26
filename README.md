@@ -17,7 +17,7 @@ This repository contains files to bootstrap XNAT deployment. The build creates t
 
 ## Usage
 
-1. Clone the [xnat-docker-compose](https://github.com/NrgXnat/xnat-docker-compose) repository.)
+1. Clone the [xnat-docker-compose](https://github.com/NrgXnat/xnat-docker-compose) repository.
 
 ```bash
 git clone https://github.com/NrgXnat/xnat-docker-compose
