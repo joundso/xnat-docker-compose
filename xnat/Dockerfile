@@ -1,5 +1,6 @@
 FROM tomcat:7-jre8-alpine
-MAINTAINER Matt Kelsey <kelseym@wustl.edu>
+LABEL maintainer_name="Matt Kelsey"
+LABEL maintainer="kelseym@wustl.edu"
 
 ARG XNAT_VER=1.7.6
 ARG XNAT_ROOT=/data/xnat
